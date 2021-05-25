@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on some Flutter projects
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Flutter and Dart
-- 📫 How to reach me: [facebook](https://www.facebook.com/aniket.bandgar.3/)  [Instagram](https://www.instagram.com/___aniket__456/)
+- 📫 How to reach me: [facebook](https://www.facebook.com/aniket.bandgar.3/)  [Instagram](https://www.instagram.com/___aniket__456/) [github](https://github.com/aniketBandgar)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Have I told you about my crazy Friends?
 
