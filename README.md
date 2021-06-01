@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on some cool Flutter Apps
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on some Flutter projects
-- 🤔 I’m looking for help with 
+
 - 💬 Ask me about Flutter and Dart
 - 📫 How to reach me: [facebook](https://www.facebook.com/aniket.bandgar.3/)  [Instagram](https://www.instagram.com/___aniket__456/) [github](https://github.com/aniketBandgar) [**Gmail**](mailto:aniketbandgar505@gmail.com)
 - 😄 Pronouns: he/his
